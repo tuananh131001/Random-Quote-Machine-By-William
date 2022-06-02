@@ -74,11 +74,9 @@ function App() {
 
         <section className="flex justify-between">
           <figure className="flex gap-1">
-            <a id="tweet-quote" href="twitter.com/intent/tweet">
+            <a id="tweet-quote" href="https://twitter.com/intent/tweet">
               <FaTwitterSquare className=" text-4xl" />
             </a>
-
-            <FaTumblrSquare className=" text-4xl"> </FaTumblrSquare>
           </figure>
           <button
             id="new-quote"
